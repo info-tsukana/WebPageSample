@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+html
+{
+    /*文字サイズ:20px*/
+    font-size:20px;
+    /*文字の色：緑*/
+    color:green;
+    /*背景の色：白*/
+    backgrond-color:#FFF;
+}
+
+p
+{
+    /*文字の色：黒*/
+    color:#000;
+}
+
+/*「p」タグのclass「akagumi」の設定*/
+p.akagumi
+{
+    /*文字の色：赤*/
+    color:red;
+}
