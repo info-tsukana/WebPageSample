@@ -3,15 +3,15 @@
 /*「p」タグのid「id1」の設定*/
 p#id1
 {
-    /*文字の色：緑色*/
-    color:green;
+    /*文字の色：青*/
+    color:blue;
 }
 
 /*「p」タグのid「id2」の設定*/
 p#id2
 {
-    /*文字の色：blue*/
-    color:blue;
+    /*文字の色：緑色*/
+    color:green;
 }
 
 /*「p」タグのid「id4」の設定*/
